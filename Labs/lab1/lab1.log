@@ -1,0 +1,553 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.6)  21 FEB 2023 11:03
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/anjrz/Desktop/Spring23/ECE442/Labs/lab1/lab1.tex
+(c:/Users/anjrz/Desktop/Spring23/ECE442/Labs/lab1/lab1.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-02> (c:/texlive/2022/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen140
+\@IEEEtrantmpdimenB=\dimen141
+\@IEEEtrantmpdimenC=\dimen142
+\@IEEEtrantmpcountA=\count185
+\@IEEEtrantmpcountB=\count186
+\@IEEEtrantmpcountC=\count187
+\@IEEEtrantmptoksA=\toks16
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen143
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen144
+\CLASSINFOnormalsizeunitybaselineskip=\dimen145
+\IEEEnormaljot=\dimen146
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+\IEEEquantizedlength=\dimen147
+\IEEEquantizedlengthdiff=\dimen148
+\IEEEquantizedtextheightdiff=\dimen149
+\IEEEilabelindentA=\dimen150
+\IEEEilabelindentB=\dimen151
+\IEEEilabelindent=\dimen152
+\IEEEelabelindent=\dimen153
+\IEEEdlabelindent=\dimen154
+\IEEElabelindent=\dimen155
+\IEEEiednormlabelsep=\dimen156
+\IEEEiedmathlabelsep=\dimen157
+\IEEEiedtopsep=\skip48
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@IEEEsubequation=\count192
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\c@figure=\count193
+\c@table=\count194
+\@IEEEeqnnumcols=\count195
+\@IEEEeqncolcnt=\count196
+\@IEEEsubeqnnumrollback=\count197
+\@IEEEquantizeheightA=\dimen158
+\@IEEEquantizeheightB=\dimen159
+\@IEEEquantizeheightC=\dimen160
+\@IEEEquantizeprevdepth=\dimen161
+\@IEEEquantizemultiple=\count198
+\@IEEEquantizeboxA=\box51
+\@IEEEtmpitemindent=\dimen162
+\IEEEPARstartletwidth=\dimen163
+\c@IEEEbiography=\count199
+\@IEEEtranrubishbin=\box52
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(c:/texlive/2022/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen164
+)) (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen165
+) (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count266
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count267
+\leftroot@=\count268
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count269
+\DOTSCASE@=\count270
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count271
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count272
+\dotsspace@=\muskip16
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
+\tag@help=\toks18
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
+\andhelp@=\toks19
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks20
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (c:/texlive/2022/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+ (c:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+\c@ALC@unique=\count278
+\c@ALC@line=\count279
+\c@ALC@rem=\count280
+\c@ALC@depth=\count281
+\ALC@tlm=\skip54
+\algorithmicindent=\skip55
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen173
+\Gin@req@width=\dimen174
+) (c:/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (c:/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (c:/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count282
+\l__pdf_internal_box=\box55
+) (./lab1.aux)
+\openout1 = `lab1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+-- Lines per column: 56 (exact).
+(c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count283
+\scratchdimen=\dimen175
+\scratchbox=\box56
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count286
+\MPscratchDim=\dimen176
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks24
+) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 33.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
+ (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<figures/CMOS_schematic.png, id=1, 258.9675pt x 391.4625pt>
+File: figures/CMOS_schematic.png Graphic file (type png)
+<use figures/CMOS_schematic.png>
+Package pdftex.def Info: figures/CMOS_schematic.png  used on input line 54.
+(pdftex.def)             Requested size: 103.58514pt x 156.58221pt.
+<figures/tabel1.png, id=3, 702.625pt x 247.92625pt>
+File: figures/tabel1.png Graphic file (type png)
+<use figures/tabel1.png>
+Package pdftex.def Info: figures/tabel1.png  used on input line 67.
+(pdftex.def)             Requested size: 224.84459pt x 79.33801pt.
+<figures/case1_circuit.png, id=4, 587.19376pt x 501.37312pt>
+File: figures/case1_circuit.png Graphic file (type png)
+<use figures/case1_circuit.png>
+Package pdftex.def Info: figures/case1_circuit.png  used on input line 95.
+(pdftex.def)             Requested size: 252.48839pt x 215.58623pt.
+
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+ [1{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./figures/CMOS_schematic.png> <./figures/tabel1.png>]
+<figures/case1_results1.png, id=22, 1386.68062pt x 532.99126pt>
+File: figures/case1_results1.png Graphic file (type png)
+<use figures/case1_results1.png>
+Package pdftex.def Info: figures/case1_results1.png  used on input line 100.
+(pdftex.def)             Requested size: 249.59174pt x 95.93428pt.
+<figures/case1_lab_result.JPG, id=23, 256.96pt x 192.72pt>
+File: figures/case1_lab_result.JPG Graphic file (type jpg)
+<use figures/case1_lab_result.JPG>
+Package pdftex.def Info: figures/case1_lab_result.JPG  used on input line 105.
+(pdftex.def)             Requested size: 231.26186pt x 173.44638pt.
+<figures/case1_results_HL.png, id=24, 624.83438pt x 526.21594pt>
+File: figures/case1_results_HL.png Graphic file (type png)
+<use figures/case1_results_HL.png>
+Package pdftex.def Info: figures/case1_results_HL.png  used on input line 110.
+(pdftex.def)             Requested size: 243.68442pt x 205.22339pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<figures/case1_results_HL_data.png, id=25, 515.67656pt x 89.58469pt>
+File: figures/case1_results_HL_data.png Graphic file (type png)
+<use figures/case1_results_HL_data.png>
+Package pdftex.def Info: figures/case1_results_HL_data.png  used on input line 115.
+(pdftex.def)             Requested size: 232.0523pt x 40.31273pt.
+<figures/case1_results_LH.png, id=26, 521.69907pt x 527.72156pt>
+File: figures/case1_results_LH.png Graphic file (type png)
+<use figures/case1_results_LH.png>
+Package pdftex.def Info: figures/case1_results_LH.png  used on input line 125.
+(pdftex.def)             Requested size: 234.7624pt x 237.4725pt.
+<figures/case1_results_LH_data.png, id=27, 520.19344pt x 87.32625pt>
+File: figures/case1_results_LH_data.png Graphic file (type png)
+<use figures/case1_results_LH_data.png>
+Package pdftex.def Info: figures/case1_results_LH_data.png  used on input line 130.
+(pdftex.def)             Requested size: 234.08487pt x 39.29645pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./figures/case1_circuit.png> <./figures/case1_results1.png> <./figures/case1_lab_result.JPG> <./figures/case1_results_HL.png> <./figures/case1_results_HL_data.png> <./figures/case1_results_LH.png>]
+<figures/case1_HL_experimental.JPG, id=36, 256.96pt x 192.72pt>
+File: figures/case1_HL_experimental.JPG Graphic file (type jpg)
+<use figures/case1_HL_experimental.JPG>
+Package pdftex.def Info: figures/case1_HL_experimental.JPG  used on input line 138.
+(pdftex.def)             Requested size: 231.26186pt x 173.44638pt.
+<figures/case1_LH_experimental.JPG, id=37, 256.96pt x 192.72pt>
+File: figures/case1_LH_experimental.JPG Graphic file (type jpg)
+<use figures/case1_LH_experimental.JPG>
+Package pdftex.def Info: figures/case1_LH_experimental.JPG  used on input line 143.
+(pdftex.def)             Requested size: 231.26186pt x 173.44638pt.
+<figures/case2_circuit.png, id=38, 355.3275pt x 301.125pt>
+File: figures/case2_circuit.png Graphic file (type png)
+<use figures/case2_circuit.png>
+Package pdftex.def Info: figures/case2_circuit.png  used on input line 153.
+(pdftex.def)             Requested size: 248.72754pt x 210.78606pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<figures/case2_results1.png, id=39, 402.75468pt x 523.9575pt>
+File: figures/case2_results1.png Graphic file (type png)
+<use figures/case2_results1.png>
+Package pdftex.def Info: figures/case2_results1.png  used on input line 158.
+(pdftex.def)             Requested size: 201.37685pt x 261.9781pt.
+<figures/case2_lab_results.png, id=40, 392.21532pt x 292.84406pt>
+File: figures/case2_lab_results.png Graphic file (type png)
+<use figures/case2_lab_results.png>
+Package pdftex.def Info: figures/case2_lab_results.png  used on input line 163.
+(pdftex.def)             Requested size: 235.331pt x 175.70778pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./figures/case1_results_LH_data.png> <./figures/case1_HL_experimental.JPG> <./figures/case1_LH_experimental.JPG> <./figures/case2_circuit.png> <./figures/case2_results1.png>]
+<figures/case2_results_HL.png, id=47, 446.41782pt x 304.13625pt>
+File: figures/case2_results_HL.png Graphic file (type png)
+<use figures/case2_results_HL.png>
+Package pdftex.def Info: figures/case2_results_HL.png  used on input line 168.
+(pdftex.def)             Requested size: 245.53055pt x 167.27545pt.
+<figures/case2_results_LH.png, id=48, 410.2828pt x 298.11375pt>
+File: figures/case2_results_LH.png Graphic file (type png)
+<use figures/case2_results_LH.png>
+Package pdftex.def Info: figures/case2_results_LH.png  used on input line 173.
+(pdftex.def)             Requested size: 246.17157pt x 178.86963pt.
+<figures/case2_HL_experimental.png, id=49, 371.88937pt x 282.30469pt>
+File: figures/case2_HL_experimental.png Graphic file (type png)
+<use figures/case2_HL_experimental.png>
+Package pdftex.def Info: figures/case2_HL_experimental.png  used on input line 178.
+(pdftex.def)             Requested size: 223.13533pt x 169.38411pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<figures/case2_LH_experimental.png, id=50, 393.72093pt x 300.3722pt>
+File: figures/case2_LH_experimental.png Graphic file (type png)
+<use figures/case2_LH_experimental.png>
+Package pdftex.def Info: figures/case2_LH_experimental.png  used on input line 183.
+(pdftex.def)             Requested size: 236.23438pt x 180.22469pt.
+<figures/case3_circuit.png, id=51, 577.40718pt x 490.08093pt>
+File: figures/case3_circuit.png Graphic file (type png)
+<use figures/case3_circuit.png>
+Package pdftex.def Info: figures/case3_circuit.png  used on input line 190.
+(pdftex.def)             Requested size: 248.28024pt x 210.7307pt.
+<figures/case3_results1.png, id=52, 1373.13pt x 540.51938pt>
+File: figures/case3_results1.png Graphic file (type png)
+<use figures/case3_results1.png>
+Package pdftex.def Info: figures/case3_results1.png  used on input line 195.
+(pdftex.def)             Requested size: 247.15274pt x 97.28928pt.
+ [4 <./figures/case2_lab_results.png> <./figures/case2_results_HL.png> <./figures/case2_results_LH.png> <./figures/case2_HL_experimental.png> <./figures/case2_LH_experimental.png> <./figures/case3_circuit.png>]
+<figures/case3_lab_result.JPG, id=62, 256.96pt x 192.72pt>
+File: figures/case3_lab_result.JPG Graphic file (type jpg)
+<use figures/case3_lab_result.JPG>
+Package pdftex.def Info: figures/case3_lab_result.JPG  used on input line 200.
+(pdftex.def)             Requested size: 231.26186pt x 173.44638pt.
+<figures/case3_results_HL.png, id=63, 480.29437pt x 524.71031pt>
+File: figures/case3_results_HL.png Graphic file (type png)
+<use figures/case3_results_HL.png>
+Package pdftex.def Info: figures/case3_results_HL.png  used on input line 205.
+(pdftex.def)             Requested size: 225.73837pt x 246.61388pt.
+<figures/case3_results_HL_data.png, id=64, 523.20468pt x 86.57344pt>
+File: figures/case3_results_HL_data.png Graphic file (type png)
+<use figures/case3_results_HL_data.png>
+Package pdftex.def Info: figures/case3_results_HL_data.png  used on input line 210.
+(pdftex.def)             Requested size: 261.6017pt x 43.2866pt.
+<figures/case3_results_LH.png, id=65, 496.10344pt x 524.71031pt>
+File: figures/case3_results_LH.png Graphic file (type png)
+<use figures/case3_results_LH.png>
+Package pdftex.def Info: figures/case3_results_LH.png  used on input line 215.
+(pdftex.def)             Requested size: 238.12694pt x 251.85808pt.
+<figures/case3_results_LH_data.png, id=66, 533.74406pt x 90.3375pt>
+File: figures/case3_results_LH_data.png Graphic file (type png)
+<use figures/case3_results_LH_data.png>
+Package pdftex.def Info: figures/case3_results_LH_data.png  used on input line 220.
+(pdftex.def)             Requested size: 266.87137pt x 45.16862pt.
+<figures/case3_HL_experimental.JPG, id=67, 256.96pt x 192.72pt>
+File: figures/case3_HL_experimental.JPG Graphic file (type jpg)
+<use figures/case3_HL_experimental.JPG>
+Package pdftex.def Info: figures/case3_HL_experimental.JPG  used on input line 228.
+(pdftex.def)             Requested size: 231.26186pt x 173.44638pt.
+<figures/case3_LH_experimental.JPG, id=68, 256.96pt x 192.72pt>
+File: figures/case3_LH_experimental.JPG Graphic file (type jpg)
+<use figures/case3_LH_experimental.JPG>
+Package pdftex.def Info: figures/case3_LH_experimental.JPG  used on input line 233.
+(pdftex.def)             Requested size: 231.26186pt x 173.44638pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./figures/case3_results1.png> <./figures/case3_lab_result.JPG> <./figures/case3_results_HL.png> <./figures/case3_results_HL_data.png> <./figures/case3_results_LH.png> <./figures/case3_results_LH_data.png> <./figures/case3_HL_experimental.JPG>]
+<figures/case4_circuit.png, id=77, 361.35pt x 340.27126pt>
+File: figures/case4_circuit.png Graphic file (type png)
+<use figures/case4_circuit.png>
+Package pdftex.def Info: figures/case4_circuit.png  used on input line 243.
+(pdftex.def)             Requested size: 216.81168pt x 204.16432pt.
+<figures/case4_results1.png, id=78, 374.14781pt x 421.575pt>
+File: figures/case4_results1.png Graphic file (type png)
+<use figures/case4_results1.png>
+Package pdftex.def Info: figures/case4_results1.png  used on input line 248.
+(pdftex.def)             Requested size: 224.4904pt x 252.94695pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<figures/case4_lab_results.png, id=79, 374.90062pt x 288.3272pt>
+File: figures/case4_lab_results.png Graphic file (type png)
+<use figures/case4_lab_results.png>
+Package pdftex.def Info: figures/case4_lab_results.png  used on input line 253.
+(pdftex.def)             Requested size: 224.94211pt x 172.99763pt.
+<figures/case4_results_HL.png, id=80, 374.90062pt x 252.19218pt>
+File: figures/case4_results_HL.png Graphic file (type png)
+<use figures/case4_results_HL.png>
+Package pdftex.def Info: figures/case4_results_HL.png  used on input line 258.
+(pdftex.def)             Requested size: 224.94211pt x 151.31647pt.
+<figures/case4_results_LH.png, id=81, 376.40625pt x 268.00125pt>
+File: figures/case4_results_LH.png Graphic file (type png)
+<use figures/case4_results_LH.png>
+Package pdftex.def Info: figures/case4_results_LH.png  used on input line 263.
+(pdftex.def)             Requested size: 244.66115pt x 174.19873pt.
+
+Underfull \vbox (badness 1867) has occurred while \output is active []
+
+ [6 <./figures/case3_LH_experimental.JPG> <./figures/case4_circuit.png> <./figures/case4_results1.png> <./figures/case4_lab_results.png> <./figures/case4_results_HL.png>]
+<figures/case4_HL_experimental.png, id=89, 368.1253pt x 286.82156pt>
+File: figures/case4_HL_experimental.png Graphic file (type png)
+<use figures/case4_HL_experimental.png>
+Package pdftex.def Info: figures/case4_HL_experimental.png  used on input line 268.
+(pdftex.def)             Requested size: 220.87688pt x 172.09425pt.
+<figures/case4_LH_experimental.png, id=90, 376.40625pt x 289.08pt>
+File: figures/case4_LH_experimental.png Graphic file (type png)
+<use figures/case4_LH_experimental.png>
+Package pdftex.def Info: figures/case4_LH_experimental.png  used on input line 273.
+(pdftex.def)             Requested size: 225.84547pt x 173.44933pt.
+<figures/rampcase1_circuit.png, id=91, 479.54156pt x 423.08063pt>
+File: figures/rampcase1_circuit.png Graphic file (type png)
+<use figures/rampcase1_circuit.png>
+Package pdftex.def Info: figures/rampcase1_circuit.png  used on input line 280.
+(pdftex.def)             Requested size: 244.56296pt x 215.76826pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<figures/rampcase1_results.png, id=92, 536.0025pt x 536.75531pt>
+File: figures/rampcase1_results.png Graphic file (type png)
+<use figures/rampcase1_results.png>
+Package pdftex.def Info: figures/rampcase1_results.png  used on input line 285.
+(pdftex.def)             Requested size: 225.1195pt x 225.43568pt.
+<figures/rampcase1_experimental.JPG, id=93, 256.96pt x 192.72pt>
+File: figures/rampcase1_experimental.JPG Graphic file (type jpg)
+<use figures/rampcase1_experimental.JPG>
+Package pdftex.def Info: figures/rampcase1_experimental.JPG  used on input line 290.
+(pdftex.def)             Requested size: 231.26186pt x 173.44638pt.
+ [7 <./figures/case4_results_LH.png> <./figures/case4_HL_experimental.png> <./figures/case4_LH_experimental.png> <./figures/rampcase1_circuit.png> <./figures/rampcase1_results.png> <./figures/rampcase1_experimental.JPG>]
+<figures/rampcase2_circuit.png, id=103, 386.19281pt x 308.65312pt>
+File: figures/rampcase2_circuit.png Graphic file (type png)
+<use figures/rampcase2_circuit.png>
+Package pdftex.def Info: figures/rampcase2_circuit.png  used on input line 297.
+(pdftex.def)             Requested size: 231.71745pt x 185.1933pt.
+<figures/rampcase2_results.png, id=104, 413.29407pt x 278.54062pt>
+File: figures/rampcase2_results.png Graphic file (type png)
+<use figures/rampcase2_results.png>
+Package pdftex.def Info: figures/rampcase2_results.png  used on input line 302.
+(pdftex.def)             Requested size: 247.97835pt x 167.12566pt.
+<figures/rampcase2_experimental.png, id=105, 367.3725pt x 279.29344pt>
+File: figures/rampcase2_experimental.png Graphic file (type png)
+<use figures/rampcase2_experimental.png>
+Package pdftex.def Info: figures/rampcase2_experimental.png  used on input line 307.
+(pdftex.def)             Requested size: 220.42519pt x 167.57735pt.
+
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[8 <./figures/rampcase2_circuit.png> <./figures/rampcase2_results.png> <./figures/rampcase2_experimental.png>] (./lab1.aux) ) 
+Here is how much of TeX's memory you used:
+ 4506 strings out of 476064
+ 74835 string characters out of 5794900
+ 1862340 words of memory out of 5000000
+ 24836 multiletter control sequences out of 15000+600000
+ 551787 words of font info for 117 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,62p,276b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on lab1.pdf (8 pages, 2762067 bytes).
+PDF statistics:
+ 156 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+
